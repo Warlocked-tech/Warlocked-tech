@@ -1,5 +1,5 @@
 
-# Hi there! 👋 I'm Iori
+# Hi there! I'm Iori Yamauchi
 
 🎓 I'm a 4th-year Information Technology student passionate about software development, web technologies, and building practical applications.
 
