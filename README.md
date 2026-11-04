@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Warlocked-tech/Warlocked-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Iori
 
-Here are some ideas to get you started:
+🎓 I'm a 4th-year Information Technology student passionate about software development, web technologies, and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript, PHP, Java, Kotlin
+- **Frameworks:** Laravel, Jetpack Compose
+- **Database:** MySQL
+- **Tools:** VS Code, Android Studio, Git, GitHub, Figma, Canva
+
+## 🚀 What I'm Working On
+
+- Developing my skills in full-stack web development
+- Learning and improving my Java programming skills
+- Building academic and personal software projects
+
+## 📫 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/yamauchi-iori-v-441b7334b/
+
+---
+⭐ Always learning, building, and improving.
+  
