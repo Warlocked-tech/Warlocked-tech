@@ -1,25 +1,33 @@
+# Iori Yamauchi
 
-# Hi there! I'm Iori Yamauchi
+Fourth-year BS Information Technology student and aspiring software engineer based in Manila, Philippines.
 
-🎓 I'm a 4th-year Information Technology student passionate about software development, web technologies, and building practical applications.
+I build websites and applications through academic and personal projects. My interests include full-stack web development, Android development, and cloud deployment. I am also learning Java and exploring game development.
 
-## 💻 Tech Stack
+## Technologies
 
-- **Languages:** HTML, CSS, JavaScript, PHP, Java, Kotlin
-- **Frameworks:** Laravel, Jetpack Compose
-- **Database:** MySQL
-- **Tools:** VS Code, Android Studio, Git, GitHub, Figma, Canva
+- **Web:** HTML, CSS, JavaScript, PHP, Laravel, Livewire, Tailwind CSS
+- **Mobile:** Kotlin, Jetpack Compose
+- **Database:** MySQL, Cloud Firestore
+- **Cloud:** Azure Virtual Machines, IIS
+- **Tools:** Git, GitHub, VS Code, Android Studio, Figma
 
-## 🚀 What I'm Working On
+## Selected Projects
 
-- Developing my skills in full-stack web development
-- Learning and improving my Java programming skills
-- Building academic and personal software projects
+- **CED-Vault:** An academic document management system with role-based access, document tracking, audit logs, and anomaly detection. My role: full-stack developer.
+- **AbyssTunes:** A mood-based Android music app built with Kotlin and Jetpack Compose.
+- **Deep Sea Ocean:** A real-time messaging web application using Cloud Firestore, deployed on an Azure virtual machine.
 
-## 📫 Connect With Me
+Project screenshots and details are available on my [portfolio](https://my-portfolio-rouge-delta-55.vercel.app).
 
-- **LinkedIn:** https://www.linkedin.com/in/yamauchi-iori-v-441b7334b/
+## Current Focus
 
----
-⭐ Always learning, building, and improving.
-  
+- Strengthening my JavaScript and Java fundamentals
+- Improving responsive design and web accessibility
+- Developing my software engineering and deployment skills
+
+## Contact
+
+- [Portfolio](https://my-portfolio-rouge-delta-55.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/yamauchi-iori-v-441b7334b/)
+- [Email](mailto:ioriyamauchi24@gmail.com)
