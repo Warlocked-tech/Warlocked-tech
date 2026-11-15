@@ -18,7 +18,7 @@ I build websites and applications through academic and personal projects. My int
 - **AbyssTunes:** A mood-based Android music app built with Kotlin and Jetpack Compose.
 - **Deep Sea Ocean:** A real-time messaging web application using Cloud Firestore, deployed on an Azure virtual machine.
 
-Project screenshots and details are available on my [portfolio](https://my-portfolio-new-plum.vercel.app).
+Project screenshots and details are available on my [portfolio](https://iori-yamauchi.vercel.app/).
 
 ## Current Focus
 
@@ -28,6 +28,6 @@ Project screenshots and details are available on my [portfolio](https://my-portf
 
 ## Contact
 
-- [Portfolio](https://my-portfolio-new-plum.vercel.app/)
+- [Portfolio](https://iori-yamauchi.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/yamauchi-iori-v-441b7334b/)
 - [Email](mailto:ioriyamauchi24@gmail.com)
