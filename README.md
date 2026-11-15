@@ -28,6 +28,6 @@ Project screenshots and details are available on my [portfolio](https://my-portf
 
 ## Contact
 
-- [Portfolio](https://my-portfolio-rouge-delta-55.vercel.app)
+- [Portfolio](https://my-portfolio-new-plum.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/yamauchi-iori-v-441b7334b/)
 - [Email](mailto:ioriyamauchi24@gmail.com)
